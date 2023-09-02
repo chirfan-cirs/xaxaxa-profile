@@ -1,24 +1,5 @@
 <h1 align="center">Website Company Profile</h1>
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Laravel-6-red.svg?style=flat-square" alt="laravel">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/MySQL-.-orange.svg?style=flat-square" alt="mysql">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bootstrap-4-blue.svg?style=flat-square" alt="bootstrap">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/%20-Regna%20Template%202-coral.svg" alt="regna">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/%20-ElaAdmin%202-green.svg" alt="ela-admin">
-  </a>
-</div>
-
-
 
 ## Introduction
 I cloned this code from someone on digithub with some changes that I did
