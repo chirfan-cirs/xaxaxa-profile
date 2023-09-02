@@ -2,5 +2,5 @@ To Login on Admin Page, using .../admin
 
 To change and login on Admin Page, change in the file AdministratorSeeder.php
 
-Email : danyadhi4149@gmail.com
+Email : xaxaxa0804@gmail.com
 Password : password
