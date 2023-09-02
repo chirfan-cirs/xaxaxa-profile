@@ -1,4 +1,4 @@
-<h1 align="center">Website Company Profile Travel Agent</h1>
+<h1 align="center">Website Company Profile</h1>
 
 <div align="center">
   <a href="#">
@@ -20,40 +20,39 @@
 
 
 
-## Pengantar
-&emsp; &emsp; Ini adalah website company profile yang saya buat menggunakan Framework Laravel 6 untuk backend-nya dan framework bootstrap 4 untuk tampilannya. <br />
-&emsp; &emsp; Sistem ini berfungsi untuk ajang promosi usaha Agent Travel yang kita punya, dapat juga digunakan untuk menulis blog atau artikel-artikel seputar travelling dan membagikannya di website ini, selain itu kita juga bisa menampilkan destinasi-destinasi wisata yang dapat dikunjungi dengan jasa yang kita punya sehingga pengunjung bisa melihat dan memilih sendiri destinasi yang ingin dikunjungi.<br />
+## Introduction
+I cloned this code from someone on digithub with some changes that I did
 	
 	
-## Fitur
-Fitur yang tersedia di website ini adalah
-1. Crud data Category Artikel 
-2. Crud data Artikel
-3. Crud data Destinasi Wisata
-4. Edit data About
-5. User dapat mencari Artikel berdasarkan judul atau kategory
-6. User dapat melihat dan mencari destinasi-destinasi yang disediakan
+## Features
+The features available on this website are
+1. Crud data Category Articles 
+2. Crud data Article
+3. Crud data of Tourism Destinations
+4. Edit About data
+5. User can search articles by title or category.
+6. Users can view and search for destinations provided
 
-## Kebutuhan
-Software yang diperlukan untuk menjalankan aplikasi ini adalah
-1. [Xampp](https://www.apachefriends.org/)
-2. Web Browser (Mozilla, Chrome, Opera, dll)
+## Requirements
+The software needed to run this application are
+1. [Xampp (https://www.apachefriends.org/)
+2. Web Browser (Mozilla, Chrome, Opera, etc.)
 3. Composer
 
-## Cara Instalasi
-1. Pastikan kamu sudah mendownload repositori ini.
-2. Ekstrak file yang sudah didownload.
-3. Letakkan repositori di dalam folder htdocts xampp kamu.
-4. Buka aplikasi xampp dan klik start pada apache dan mysql.
+## How to install
+1. Make sure you have downloaded this repository.
+2. Extract the downloaded file.
+3. Place the repository inside your xampp htdocts folder.
+4. Open the xampp application and click start on apache and mysql.
 5. cp .env.example .env
-6. File env dan sesuaikan dengan sistem kita
-7. Buka CMD dan arahkan ke direktori ini.
-8. Ketik "composer install" dan tekan enter
-9. ketik "php artisan key:generate" dan tekan enter
-10. ketik "php artisan migrate" dan tekan enter
-11. ketik "php artisan db:seed" dan tekan enter
-12. ketik "php artisan serve" dan tekan enter
-13. Buka web browser dan tulis 'http://127.0.0.1:8000/' di form url lalu tekan enter.
+6. The env file and customize it to our system
+7. Open CMD and navigate to this directory.
+8. Type "composer install" and press enter
+9. type "php artisan key:generate" and press enter
+10. type "php artisan migrate" and press enter
+11. type "php artisan db:seed" and press enter
+12. type "php artisan serve" and press enter
+13. Open a web browser and write 'http://127.0.0.1:8000/' in the url form and press enter.
 
 
 ## Screenshot Halaman Admin
@@ -88,6 +87,3 @@ Software yang diperlukan untuk menjalankan aplikasi ini adalah
 
 <br />
 <br />
-
-## Kontak
-danyadhi4149@gmail.com
