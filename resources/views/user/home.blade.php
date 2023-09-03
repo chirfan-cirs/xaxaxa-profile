@@ -9,7 +9,7 @@
             height: 180px;
         }
         #hero{
-            background: url('{{asset('user/images/hero-bg.jpg')}}') top center;
+            background: url('{{asset('user/images/home-page.jpeg')}}') top center;
         }
         .image-center{
           display: block;
@@ -21,8 +21,8 @@
 @endsection
 
 @section('hero')
-    <h1>Welcome to Jogja-Travel</h1>
-    <h2>Kami adalah agen travel terpercaya dan jaminan layanan perencanaan wisata yang mudah dan murah</h2>
+    <h1>Welcome to Xaxaxa Snack</h1>
+    <h2>Camilan Homemade Terbaik di Kota Anda</h2>
     <a href="#about" class="btn-get-started">Get Started</a>
 @endsection
 
@@ -57,7 +57,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
               <div class="box">
                 <div class="icon"><i class="fa fa-shield"></i></div>
-                <h4 class="title">Keamanan Berkendara</h4>
+                <h4 class="title">Keamanan Bahan</h4>
                 <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
               </div>
             </div>
@@ -71,7 +71,7 @@
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
               <div class="box">
                 <div class="icon"><i class="fa fa-thumbs-up"></i></div>
-                <h4 class="title">Kenyamanan Pelanggan</h4>
+                <h4 class="title">Kualitas Makanan</h4>
                 <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
               </div>
             </div>
@@ -85,7 +85,7 @@
         <div class="container wow fadeIn">
           <div class="row">
             <div class="col-lg-9 text-center text-lg-left">
-              <h3 class="cta-title">Bergabung dan Bepergian Bersama Kami</h3>
+              <h3 class="cta-title">Cicipi Kelezatan Cemilan  Buatan Sendiri</h3>
               <p class="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </div>
             <div class="col-lg-3 cta-btn-container text-center">
@@ -136,21 +136,13 @@
   
             <div class="col-lg-12 col-md-4">
               <div class="row">
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/prambanan.png')}})">
+                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/cemilan1.jpeg')}})">
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/wisata2.png')}})">
+                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/cemilan2.jpeg')}})">
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/wisata3.png')}})">
+                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/cemilan3.jpeg')}})">
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/wisata4.png')}})">
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/wisata5.png')}})">
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/wisata6.png')}})">
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/wisata7.png')}})">
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/wisata8.png')}})">
+                <div class="col-lg-3 col-md-4 col-sm-6 full-img" style="background-image: url({{asset('user/images/gallery/cemilan4.jpeg')}})">
                 </div>
               </div>
             </div>

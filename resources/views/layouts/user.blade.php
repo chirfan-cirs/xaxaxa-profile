@@ -41,7 +41,7 @@
 
       <div id="logo" class="pull-left">
         <a href="#hero">
-          <img src="{{asset('user/images/icon.png')}}" style="margin-right:5px"/></img>
+          <img src="{{asset('user/images/icon-1.png')}}" style="margin-right:1px"/></img>
           <h2 class="d-inline text-light">Company Profile</h2>
         </a>
       </div>

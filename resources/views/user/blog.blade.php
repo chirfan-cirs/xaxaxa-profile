@@ -25,8 +25,8 @@
 @endsection
 
 @section('hero')
-    <h1>Blog Jogja-Travel</h1>
-    <h2>Kumpulan artikel-artikel wisata Jogja, Tips travelling, dan kesehatan</h2>
+    <h1>Blog Cemilan-Xaxaxa</h1>
+    <h2>Kumpulan artikel-artikel cemilan Xaxaxa, Bahan yang digunakan, dan Harga</h2>
 @endsection
 
 

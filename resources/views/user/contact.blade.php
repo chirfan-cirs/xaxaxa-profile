@@ -12,8 +12,8 @@
 @endsection
 
 @section('hero')
-    <h1>Contact Jogja-Travel</h1>
-    <h2>Bergabung dan liburan bersama Kami</h2>
+    <h1>Contact Homemade-Xaxaxa</h1>
+    <h2>Pesan dan nikmati cemilan Homemade buatan Kami</h2>
 @endsection
 
 @section('content')
@@ -36,18 +36,18 @@
           <div class="info">
             <div>
               <i class="fa fa-map-marker"></i>
-              <p>Gedong Tengen,
-                <br>Daerah Istimewa Yogyakarta</p>
+              <p>Simprug Poris,
+                <br>Banten</p>
             </div>
 
             <div>
               <i class="fa fa-envelope"></i>
-              <p>danyadhi4149@gmail.com</p>
+              <p>xaxaxa0804@gmail.com</p>
             </div>
 
             <div>
               <i class="fa fa-phone"></i>
-              <p>0831-6179-3990</p>
+              <p>0896-5476-8385</p>
             </div>
           </div>
 
@@ -67,19 +67,19 @@
             <div id="errormessage"></div>
             <form action="" method="post" role="form" class="contactForm">
               <div class="form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                <input type="text" name="name" class="form-control" id="name" placeholder="Nama Anda" data-rule="minlen:3" data-msg="Silahkan masukan setidaknya 3 huruf" />
                 <div class="validation"></div>
               </div>
               <div class="form-group">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email Anda" data-rule="email" data-msg="Silahkan masukan email yang aktif" />
                 <div class="validation"></div>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:5" data-msg="Silahkan masukan setidaknya 5 huruf" />
                 <div class="validation"></div>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Silahkan tulis seusatu untuk kami" placeholder="Pesan"></textarea>
                 <div class="validation"></div>
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
